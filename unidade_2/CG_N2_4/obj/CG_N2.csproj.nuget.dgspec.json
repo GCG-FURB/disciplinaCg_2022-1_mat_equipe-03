@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\Unidade2\\CG_N2_4\\CG_N2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\CG_Biblioteca\\CG_Biblioteca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\CG_Biblioteca\\CG_Biblioteca.csproj",
+        "projectName": "CG_Biblioteca",
+        "projectPath": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\CG_Biblioteca\\CG_Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\CG_Biblioteca\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OpenTK.NetCore": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\Unidade2\\CG_N2_4\\CG_N2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\Unidade2\\CG_N2_4\\CG_N2.csproj",
+        "projectName": "CG_N2",
+        "projectPath": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\Unidade2\\CG_N2_4\\CG_N2.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\Unidade2\\CG_N2_4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\CG_Biblioteca\\CG_Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\CG_Biblioteca\\CG_Biblioteca.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "OpenTK.NetCore": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
