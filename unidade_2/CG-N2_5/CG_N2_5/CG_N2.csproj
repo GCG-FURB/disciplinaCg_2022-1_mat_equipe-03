@@ -16,7 +16,7 @@
 
   <ItemGroup>
      <Reference Include="CG_Biblioteca">
-       <HintPath>..\..\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.dll</HintPath>
+       <HintPath>..\..\..\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.dll</HintPath>
      </Reference>
   </ItemGroup>
 

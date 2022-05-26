@@ -74,3 +74,22 @@ C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\d
 C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\Unidade2\CG_N2_5_Teste\obj\Debug\net6.0\CG_N2.pdb
 C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\Unidade2\CG_N2_5_Teste\obj\Debug\net6.0\CG_N2.genruntimeconfig.cache
 C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\Unidade2\CG_N2_5_Teste\obj\Debug\net6.0\ref\CG_N2.dll
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.csproj.AssemblyReference.cache
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.AssemblyInfoInputs.cache
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.AssemblyInfo.cs
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.dll
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\refint\CG_N2.dll
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.pdb
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\bin\Debug\net6.0\CG_N2.exe
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\bin\Debug\net6.0\CG_N2.deps.json
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\bin\Debug\net6.0\CG_N2.runtimeconfig.json
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\bin\Debug\net6.0\CG_N2.dll
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\bin\Debug\net6.0\CG_N2.pdb
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\bin\Debug\net6.0\OpenTK.dll
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\bin\Debug\net6.0\CG_Biblioteca.dll
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\bin\Debug\net6.0\CG_Biblioteca.pdb
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.csproj.CopyComplete
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\CG_N2.genruntimeconfig.cache
+C:\Users\Henrique\CG_Git\disciplinaCg_2022-1_mat_equipe-03\unidade_2\CG-N2_5\CG_N2_5\obj\Debug\net6.0\ref\CG_N2.dll

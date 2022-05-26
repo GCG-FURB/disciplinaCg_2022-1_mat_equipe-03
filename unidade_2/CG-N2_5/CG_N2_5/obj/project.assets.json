@@ -2113,31 +2113,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafae\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Henrique\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\Unidade2\\CG_N2_5_Teste\\CG_N2.csproj",
+      "projectUniqueName": "C:\\Users\\Henrique\\CG_Git\\disciplinaCg_2022-1_mat_equipe-03\\unidade_2\\CG-N2_5\\CG_N2_5\\CG_N2.csproj",
       "projectName": "CG_N2",
-      "projectPath": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\Unidade2\\CG_N2_5_Teste\\CG_N2.csproj",
-      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\Documents\\furb\\2022 furb semestre 7\\CG\\disciplinaCgNot-main (1)\\disciplinaCgNot-main\\Unidade2\\CG_N2_5_Teste\\obj\\",
+      "projectPath": "C:\\Users\\Henrique\\CG_Git\\disciplinaCg_2022-1_mat_equipe-03\\unidade_2\\CG-N2_5\\CG_N2_5\\CG_N2.csproj",
+      "packagesPath": "C:\\Users\\Henrique\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Henrique\\CG_Git\\disciplinaCg_2022-1_mat_equipe-03\\unidade_2\\CG-N2_5\\CG_N2_5\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2176,7 +2169,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
