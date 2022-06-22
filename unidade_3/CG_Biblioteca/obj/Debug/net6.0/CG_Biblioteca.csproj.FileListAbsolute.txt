@@ -1,0 +1,36 @@
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.deps.json
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.dll
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.pdb
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.dll
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\refint\CG_Biblioteca.dll
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.pdb
+C:\Users\rafae\Documents\furb\2022 furb semestre 7\CG\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\ref\CG_Biblioteca.dll
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.deps.json
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.dll
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.pdb
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.dll
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\refint\CG_Biblioteca.dll
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.pdb
+C:\Users\janai\Documents\furb\CG\unidade 3 funciona\disciplinaCgNot-main (1)\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\ref\CG_Biblioteca.dll
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.deps.json
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.dll
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\bin\Debug\net6.0\CG_Biblioteca.pdb
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.dll
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\refint\CG_Biblioteca.dll
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\CG_Biblioteca.pdb
+C:\Users\henri\Downloads\dia12-06\disciplinaCgNot-main\CG_Biblioteca\obj\Debug\net6.0\ref\CG_Biblioteca.dll
